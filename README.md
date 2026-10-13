@@ -27,7 +27,7 @@ This repository documents the absolute ground floor of our architecture: a class
 
 ---
 
-### Technical Schematic (For Engineers)
+###  Schematic 
 
 ```text
 
