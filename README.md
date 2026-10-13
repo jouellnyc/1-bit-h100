@@ -10,7 +10,7 @@ Welcome to **1-bit-h100**, the world's most aggressively over-engineered, severe
 
 This repository documents the absolute ground floor of our architecture: a classic cross-coupled bistable multivibrator (flip-flop). It is a 1-bit memory cell that retains state using pure positive feedback.
 
-<img src="h100.png" alt="Circuit Build Photo" width="550" height="500">
+<img src="h100.png" alt="Circuit Build Photo" width="350" height="350">
 
 ---
 
